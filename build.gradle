@@ -2,7 +2,7 @@ plugins {
     id 'java'
 }
 
-group = 'org.mathias.junit5.calculadora2'
+group = 'org.mathias.junit5.pruebas.unitarias'
 version = '1.0-SNAPSHOT'
 
 repositories {
